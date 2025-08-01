@@ -8,7 +8,7 @@ a space where beauty, peace, and memories blend into one.
 - *Priyambada Ray*
 - GitHub: [raypriyambada13](https://github.com/raypriyambada13)
 - Email: priyambadaray13@gmail.com
-- LinkedIn: [Priyambada Ray](https://www.linkedin.com/in/priyambada-ray)
+- LinkedIn: [Priyambada Ray](https://www.linkedin.com/in/priyambada-ray-354869268/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvKdG%2FR6QSv26VxB2mcGV8w%3D%3D)
 
 
 ---
