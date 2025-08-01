@@ -23,7 +23,7 @@ You can scan the QR code to directly open the photo gallery on your phone:
 ---
 
 ## 🔗 Live Website
-- [Click here to view the gallery online](https://github.com/raypriyambada13/My-digital-Diary/blob/main/index.html)
+- [Click here to view the gallery online](https://github.com/raypriyambada13/My-digital-Diary)
 
 
 ## 🛠 Built With
