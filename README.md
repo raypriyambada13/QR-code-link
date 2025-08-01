@@ -15,6 +15,7 @@ a space where beauty, peace, and memories blend into one.
 ## 📱 Scan to Explore
 
 You can scan the QR code to directly open the photo gallery on your phone:
+![QR Code](https://github.com/raypriyambada13/QR-code-link/blob/main/qr_code.png)
 
 
 > Let your eyes travel, even if your feet can't.
