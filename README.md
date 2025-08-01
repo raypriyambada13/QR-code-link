@@ -23,7 +23,7 @@ You can scan the QR code to directly open the photo gallery on your phone:
 ---
 
 ## 🔗 Live Website
-
+- [Click here to view the gallery online](https://github.com/raypriyambada13/QR-code-link/blob/main/QR%20code%20in%20python.ipynb)
 
 
 ## 🛠 Built With
