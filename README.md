@@ -23,7 +23,7 @@ You can scan the QR code to directly open the photo gallery on your phone:
 
 ## 🔗 Live Website
 
--
+
 
 ## 🛠 Built With
 
