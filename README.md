@@ -3,6 +3,14 @@
 Welcome to my personal collection of moments captured through nature’s lens —  
 a space where beauty, peace, and memories blend into one.
 
+
+
+- *Priyambada Ray*
+- GitHub: [raypriyambada13](https://github.com/raypriyambada13)
+- Email: priyambadaray13@gmail.com
+- LinkedIn: [Priyambada Ray](https://www.linkedin.com/in/priyambada-ray)
+
+
 ---
 
 ## ✨ What's Inside?
